@@ -17,3 +17,7 @@ This Google Colab project allows you to generate a 3D model from a series of vid
 1. Open Google Colab: Click on the project link to open Google Colab.
 2. Upload Your Media Files(into ```resources```): Use the file upload interface in Google Colab to upload your videos or pictures.
 3. Let it do all the work ;) .
+
+
+
+You can check the original NVIDIA project with the GUI for this project [Nvidia-iNGP](https://github.com/NVlabs/instant-ngp).
