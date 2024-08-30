@@ -8,9 +8,8 @@ This Google Colab project allows you to generate a 3D model from a series of vid
 
 # Features
 
-1. User-Friendly Interface: Easy to upload and process your media files.
-2. Fast Processing: Generate high-quality 3D models in a short amount of time (2 minutes max).
-3. Automated Workflow: Minimal user intervention required, making it accessible for users with varying technical expertise.
+1. Fast Processing: Generate high-quality 3D models in a short amount of time (2 minutes max).
+2. Automated Workflow: Minimal user intervention required, making it accessible for users with varying technical expertise.
 
 # Usage Instructions
 
